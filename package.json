@@ -1,16 +1,19 @@
 {
-    "name": "queenjusmy-baileys-v1",
-    "version": "1.0.8",
-    "description": "WhatsApp Baileys Modified By Bhashana Sandesh",
+    "name": "xmd-baileys",
+    "version": "1.0.0",
+    "description": "WhatsApp Baileys Modified By Ibrahim Adams - BWM-XMD with Disappearing Messages Support",
     "keywords": [
-        "whatsapp-baileys"
+        "whatsapp-baileys",
+        "bwm-xmd",
+        "disappearing-messages",
+        "whatsapp-bot"
     ],
-    "homepage": "https://github.com/vijitharanawakage/QueenJusmy-Baileys",
+    "homepage": "https://github.com/xmd-tech/Baileys",
     "repository": {
-        "url": "https://github.com/vijitharanawakage/QueenJusmy-Baileys"
+        "url": "https://github.com/xmd-tech/Baileys"
     },
     "license": "MIT",
-    "author": "Bhashana Sandesh",
+    "author": "Ibrahim Adams",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -45,7 +48,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:tenka-san/libsignal-node",
+        "libsignal": "github:AdenForshaw/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -73,7 +76,7 @@
         "ts-jest": "^27.0.3",
         "ts-node": "^10.8.1",
         "typedoc": "^0.24.7",
-        "typescript": "^4.6.4", 
+        "typescript": "^4.6.4",
         "json": "^11.0.0"
     },
     "peerDependencies": {
@@ -99,8 +102,8 @@
     "packageManager": "yarn@1.22.19",
     "engines": {
         "node": ">=20.0.0"
-    }, 
+    },
     "bugs": {
-      "url": "https://github.com/vijitharanawakage/QueenJusmy-Baileys/issues"
+        "url": "https://github.com/xmd-tech/Baileys/issues"
     }
 }
